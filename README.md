@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NextJS, ReactJS**
 
-- 📫 How to reach me **singhmurali.14@gmail.com**
+- 📫 You can contact me at **singhmurali.14@gmail.com**
 
 - 🔥 **Let's discuss your project ideas and take them to the next level! Feel free to reach out. Open to exciting opportunities and collaborations. Let's create an impact in the tech world! 🌍💥**
 
