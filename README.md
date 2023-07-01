@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Murali Singh</h1>
 <h3 align="center">🚀 Full Stack Developer | Building Digital Marvels 🚀</h3>
 
-- 🌱 I’m currently learning **NextJS, ReactJS**
+🌱 I’m currently learning **NextJS, ReactJS**
 
-- 📫 You can contact me at **singhmurali.14@gmail.com**
+📫 You can contact me at **singhmurali.14@gmail.com**
 
-- 🔥 **Let's discuss your project ideas and take them to the next level! Feel free to reach out. Open to exciting opportunities and collaborations. Let's create an impact in the tech world! 🌍💥**
+🔥 **Let's discuss your project ideas and take them to the next level! Feel free to reach out. Open to exciting opportunities and collaborations. Let's create an impact in the tech world! 🌍💥**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
