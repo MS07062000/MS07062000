@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/murali-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/murali-singh" height="30" width="35" /></a>
-<a href="https://calendly.com/muralisingh/30min?back=1&month=2023-06" target="blank"><img align="center" src="https://ww1.freelogovectors.net/wp-content/uploads/2023/05/calendly_logo-freelogovectors.net_.png?lossy=1&resize=40%2C40&ssl=1" alt="https://calendly.com/muralisingh/30min?back=1&month=2023-06" height="35" width="35" /></a>
+<a href="https://calendly.com/muralisingh/30min?back=1&month=2023-06" target="blank"><img align="center" src="https://theme.zdassets.com/theme_assets/1024340/78b0cd1ea78d2763fb98cb466ef065903b5efc0b.png" alt="https://calendly.com/muralisingh/30min?back=1&month=2023-06" height="35" width="35" /></a>
 <a href="https://topmate.io/murali_singh/389479" target="blank"><img align="center" src="https://topmate.io/_next/image?url=https%3A%2F%2Ftopmate-staging.s3.ap-south-1.amazonaws.com%2Fudpg1suHjRq3SU9U4yKFZ1.png&w=640&q=75" alt="https://topmate.io/murali_singh/389479" height="35" width="35" /></a>
 </p>
 
